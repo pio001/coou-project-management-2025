@@ -1,0 +1,68 @@
+.upload-page {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.upload-page-header {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.upload-page-title {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.upload-page-description {
+  color: #7f8c8d;
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.upload-section {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(44, 62, 80, 0.07);
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.upload-section-title {
+  font-size: 1.5rem;
+  color: #34495e;
+  margin-bottom: 1.5rem;
+}
+
+.upload-guidelines {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
+
+.upload-guidelines h3 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.upload-guidelines ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.upload-guidelines li {
+  margin-bottom: 0.5rem;
+  color: #576574;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.upload-guidelines li::before {
+  content: "•";
+  color: #3498db;
+  position: absolute;
+  left: 0;
+}
